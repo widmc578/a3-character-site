@@ -1,0 +1,41 @@
+#container {
+	background-color: pink;
+	width: 960px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 30px;
+	text-align: center;
+}
+
+#container
+
+h1 {
+	font-size: 48px;
+	color: cyan;
+	font-family: times-new-roman;
+}
+
+h2 {
+	font-size: 20px;
+	font-style: bold;
+	color: orange;
+	font-family: times-new-roman;
+}
+
+
+
+p {
+	font-size: 14px;
+	color: green;
+	font-family: times-new-roman;
+}
+
+a {
+	color: red;
+}
+
+#container a:hover {
+	color: violet;
+	background-color: blue;
